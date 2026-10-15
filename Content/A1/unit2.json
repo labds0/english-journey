@@ -1,0 +1,13 @@
+{
+  "id": "a1-u2",
+  "title": "About me",
+  "titleAr": "عن نفسي",
+  "exercises": [
+    { "type": "choice", "prompt": "I ___ from Egypt.", "options": ["am", "is", "are"], "answer": 0, "note": "I → am" },
+    { "type": "choice", "prompt": "She ___ a teacher.", "options": ["am", "is", "are"], "answer": 1, "note": "She/He/It → is" },
+    { "type": "choice", "prompt": "They ___ students.", "options": ["am", "is", "are"], "answer": 2, "note": "You/We/They → are" },
+    { "type": "order", "prompt": "رتّب الجملة: عمري عشرون سنة", "words": ["I", "am", "twenty", "years", "old"], "note": "I am twenty years old." },
+    { "type": "order", "prompt": "رتّب الجملة: هو أخي", "words": ["He", "is", "my", "brother"], "note": "He is my brother." },
+    { "type": "choice", "prompt": "What does \"country\" mean?", "options": ["بلد", "مدينة", "عائلة"], "answer": 0, "note": "country = بلد / دولة" }
+  ]
+}
